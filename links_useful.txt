@@ -1,0 +1,8 @@
+ If you would like to leverage pandas and SQL simultaneously, you can use libraries such as SQLAlchemy, 
+ which provides an abstraction layer to manipulate SQL tables with generative Python expressions.
+https://www.sqlalchemy.org/
+
+
+AWK - a command line tool for manipulating text files
+R - a programming language and software environment for statistical computing
+Python PyData Stack, which includes pandas, Matplotlib, NumPy, and scikit-learn among other libraries
