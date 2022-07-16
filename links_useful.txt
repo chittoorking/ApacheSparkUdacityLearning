@@ -6,3 +6,8 @@ https://www.sqlalchemy.org/
 AWK - a command line tool for manipulating text files
 R - a programming language and software environment for statistical computing
 Python PyData Stack, which includes pandas, Matplotlib, NumPy, and scikit-learn among other libraries
+
+You can find more information about Amazon S3 and HDFS by following these links.
+https://aws.amazon.com/s3/
+
+https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
