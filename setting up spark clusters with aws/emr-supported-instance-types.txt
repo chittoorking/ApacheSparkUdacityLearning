@@ -1,0 +1,2 @@
+emr-supported_instance-types
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-supported-instance-types.html
