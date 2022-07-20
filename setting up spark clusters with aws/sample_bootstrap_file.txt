@@ -1,0 +1,11 @@
+
+Notice two things in the command above.
+One, we have added the --auto-terminate option to terminate the cluster after completing all the steps 
+because EMR clusters are costly. However, you can ignore this option, and terminate the cluster manually after your job is done.
+Two, we haven't specified the --bootstrap-actions option. This step is optional.
+[Optional] Specify your bootstrap file - You should save an executable (bootstrap_emr.sh file) in an accessible S3 location.
+You can specify this option as, for example, --bootstrap-actions Path=s3://mybucket/bootstrap_emr.sh in the command below.
+A sample file is provided in the Github repo here.
+
+bootstrap_sample_file
+https://github.com/udacity/nd027-c3-data-lakes-with-spark/tree/master/Setting_Spark_Cluster_In_AWS/exercises/starter/create_emr_cluster
