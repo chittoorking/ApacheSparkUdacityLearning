@@ -1,0 +1,4 @@
+Since a Spark cluster includes multiple machines, in order to use Spark code on each machine, 
+we would need to download and install Spark and its dependencies. This is a manual process. 
+Elastic Map Reduce is a service offered by AWS that negates the need for you, the user,
+to go through the manual process of installing Spark and its dependencies for each machine.
