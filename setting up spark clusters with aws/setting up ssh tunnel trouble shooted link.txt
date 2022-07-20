@@ -1,1 +1,3 @@
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-ssh-tunnel.html
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-manage-view-clusters.html
+
