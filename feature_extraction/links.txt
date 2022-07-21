@@ -1,0 +1,4 @@
+https://spark.apache.org/docs/latest/ml-features.html#normalizer
+https://spark.apache.org/docs/latest/ml-features.html#standardscaler
+https://spark.apache.org/docs/latest/ml-features.html#minmaxscaler
+https://spark.apache.org/docs/latest/ml-features.html#maxabsscaler
